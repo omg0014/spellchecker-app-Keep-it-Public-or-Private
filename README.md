@@ -1,18 +1,17 @@
-# Spell Checker App (Python)
+# ✨ Spell Checker App (Python)
 
 A simple Python spell checker application that corrects misspelled words using the `pyspellchecker` library.
 
 ---
 
-## Features
-- Corrects spelling mistakes
-- Shows corrections
-- Simple command-line tool
+## 🚀 Features
+- ✔ Corrects spelling mistakes  
+- ✔ Shows corrections  
+- ✔ Easy command-line tool  
 
 ---
 
-## Requirements
-Install dependency:
+## 📦 Install Dependency
 
 ```sh
 python3 -m pip install pyspellchecker
